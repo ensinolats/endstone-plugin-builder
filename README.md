@@ -8,4 +8,4 @@ build <plugin-directory> -des <endstone-plugins-folder>
 
 after the first use the destiny will be saved and you can omit that argument.
 
-if the prosses presents any errors it should display then and create a log file
+if the process presents any errors it should display then and create a log file
